@@ -23,7 +23,7 @@ def myFunction ():
 
 ...
 to run your function:
->>>myFunction()
+>>> myFunction()
 
 ===============================
 
