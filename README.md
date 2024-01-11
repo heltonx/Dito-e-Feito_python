@@ -6,8 +6,7 @@ Dito-e-Feito developed based on the practices with the friend "Le Disciple"
 
 ===============================
 
-Item 1 - simple print
-print ("Hello Angola")
+Item 1 - simple print ("Hello Angola")
 
 ===============================
 
