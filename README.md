@@ -20,7 +20,7 @@ Item 3 - simple function
 ####START OF CODE###
 
 def myFunction ():
-  print ("Hello function")
+print ("Hello function")
   print (2+2)
 
 ###END OF CODE###
