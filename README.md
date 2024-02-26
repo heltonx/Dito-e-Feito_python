@@ -43,4 +43,16 @@ for i in range (len(a)):
 
     print (a[i])
 
+===============================
 
+Dito 5 - while looping
+
+####START OF CODE###
+x=1
+
+while x <=10:
+    print (x)
+    x +=1
+
+    
+####END OF CODE###
