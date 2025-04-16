@@ -1,6 +1,6 @@
 # Dito-e-Feito_python
 
-Tutorial with base movements to repeat your practice eternally (like the Katas in Karate), from the scratch.
+Tutorial with base movements to repeat your practice eternally (like the Katas in Karate), from the scratch..
 Dito-e-Feito developed based on the practices with the friend "Le Disciple"
 
 
